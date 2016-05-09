@@ -1,0 +1,31 @@
+{
+  "name": "jsyg-vmouse",
+  "version": "0.2.2",
+  "description": "jsyg version of jquery virtual mouse bindings",
+  "main": "JSYG-vmouse.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YannickBochatay/JSYG-vmouse.git"
+  },
+  "keywords": [
+    "svg",
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "author": "Yannick Bochatay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YannickBochatay/JSYG-vmouse/issues"
+  },
+  "homepage": "https://github.com/YannickBochatay/JSYG-vmouse#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
