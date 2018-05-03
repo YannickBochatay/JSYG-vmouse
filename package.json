@@ -1,6 +1,6 @@
 {
   "name": "jsyg-vmouse",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "jsyg version of jquery virtual mouse bindings",
   "main": "JSYG-vmouse.js",
   "directories": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/YannickBochatay/JSYG-vmouse#readme",
   "dependencies": {
-    "jquery": "^2.2.3"
+    "jquery": "^3.3.1"
   }
 }
